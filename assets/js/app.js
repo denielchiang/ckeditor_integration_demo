@@ -12,6 +12,7 @@ import css from "../css/app.css"
 import "phoenix_html"
 
 // Import local files
-//
+import './custom'
+
 // Local files can be imported directly using relative paths, for example:
 // import socket from "./socket"
